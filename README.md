@@ -1,5 +1,5 @@
 # Java-Project
-<h1>Raven</h1>
+<marquee>Raven</marquee>
 - Simple CRUD
 - Netbean IDE
 - MySQL
