@@ -1,4 +1,4 @@
-# <h1 style="background-color: #ff00ff;">Java-Project</h1>
+# Java-Project
 - Simple CRUD
 - Netbean IDE
 - MySQL
